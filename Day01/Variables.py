@@ -1,44 +1,53 @@
-# ============================
-# 1. Integer Variable
-# ============================
-age = 22
-print("Age:", age)
+#====================================
+# Variables
+#====================================
+# Assigning the values to variables
+#------------------------------------
+a=10        #integer type
+b=10.1      #float type
+c='Sailu'   #String type
+d=True      #Boolean type
 
-# ============================
-# 2. String Variable
-# ============================
-name = "Sailu"
-print("Name:", name)
+# Variable Reassigning
 
-# ============================
-# 3. Float Variable
-# ============================
-height = 5.6
-print("Height:", height)
+var1=55
+print(var1)
+var1=10.5
+print(var1)
 
-# ============================
-# 4. Boolean Variable
-# ============================
-is_student = True
-print("Student:", is_student)
+# Multiple assigning
 
-# ============================
-# 5. Multiple Variable Assignment
-# ============================
-x, y, z = 10, 20, 30
-print(x, y, z)
+var2=10,20,30
+print(var2)
+x,y,z=10,20,30
+print(x)
+print(y)
+print(z)
+#var3,var4=10 (Error: Type Error)
+#print(var3)
+#print(var4)
 
-# ============================
-# 6. Assign Same Value
-# ============================
-a = b = c = 100
-print(a, b, c)
+#=============================
+# Examples
+#=============================
 
-# ============================
-# 7. Variable Swapping
-# ============================
-num1 = 10
-num2 = 20
-num1, num2 = num2, num1
-print("num1 =", num1)
-print("num2 =", num2)
+# Student infot
+student_name = "Sailu"
+age = 21
+course = "Data Science"
+print(student_name)
+print(age)
+print(course)
+
+# Bank Account
+account_holder = "Rahul"
+balance = 15000.50
+print(account_holder)
+print(balance)
+ 
+# Shopping Bill
+item = "Laptop"
+price = 55000
+quantity = 2
+total = price * quantity
+print(total)
