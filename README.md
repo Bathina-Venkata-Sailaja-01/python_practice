@@ -6,6 +6,6 @@ This repository contains my daily Python practice programs.
 - Variables
 - Datatypes
 - Typecasting
-- Lists
-- Strings
+- UserInput
+- Print Statements
 
