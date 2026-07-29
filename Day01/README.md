@@ -1,4 +1,3 @@
-````markdown
 # 📘 Day 01 - Variables in Python
 
 ## 🎯 Objective

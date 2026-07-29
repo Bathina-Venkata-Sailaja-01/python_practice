@@ -1,4 +1,3 @@
-````markdown
 # 📘 Day 02 - Python Data Types
 
 ## 🎯 Objective
