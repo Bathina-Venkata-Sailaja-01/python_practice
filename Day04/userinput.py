@@ -73,6 +73,77 @@ print("Area of Rectangle =", area)
 print("-" * 40)
 
 # ------------------------------------------
+# Example 8: eval() - Integer Input
+# ------------------------------------------
+num = eval(input("Enter an integer: "))
+print("Value:", num)
+print("Data Type:", type(num))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 9: eval() - Float Input
+# ------------------------------------------
+num = eval(input("Enter a float value: "))
+print("Value:", num)
+print("Data Type:", type(num))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 10: eval() - Boolean Input
+# ------------------------------------------
+value = eval(input("Enter True or False: "))
+print("Value:", value)
+print("Data Type:", type(value))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 11: eval() - List Input
+# ------------------------------------------
+data = eval(input("Enter a list: "))
+print("List:", data)
+print("Data Type:", type(data))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 12: eval() - Tuple Input
+# ------------------------------------------
+data = eval(input("Enter a tuple: "))
+print("Tuple:", data)
+print("Data Type:", type(data))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 13: eval() - Dictionary Input
+# ------------------------------------------
+data = eval(input("Enter a dictionary: "))
+print("Dictionary:", data)
+print("Data Type:", type(data))
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 14: eval() - Mathematical Expression
+# ------------------------------------------
+result = eval(input("Enter a mathematical expression: "))
+print("Result =", result)
+
+print("-" * 40)
+
+# ------------------------------------------
+# Example 15: eval() - Complex Number
+# ------------------------------------------
+num = eval(input("Enter a complex number: "))
+print("Value:", num)
+print("Data Type:", type(num))
+
+print("-" * 40)
+
+# ------------------------------------------
 # End of Program
 # ------------------------------------------
 print("All user input examples completed successfully!")
