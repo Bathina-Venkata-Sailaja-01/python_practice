@@ -7,5 +7,6 @@ This repository contains my daily Python practice programs.
 - Datatypes
 - Typecasting
 - UserInput
-- Print Statements
+- Print Statement(F-String)
+
 
