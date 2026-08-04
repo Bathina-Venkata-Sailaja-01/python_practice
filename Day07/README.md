@@ -1,0 +1,10 @@
+- Packages are required to learn AI,ML,DL,Math in easy and efficient format
+- They reduces the human work. Through pretrained codes in the packages
+- maths by your own === Machine === Language === python
+- in libraries we have
+                      - Packages in that 
+                                        - module
+                                               - class
+                                                      - method
+- each .py file is a module
+- 
