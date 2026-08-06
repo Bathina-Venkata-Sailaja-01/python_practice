@@ -8,5 +8,7 @@ This repository contains my daily Python practice programs.
 - Typecasting
 - UserInput
 - Print Statement(F-String)
+- Packages
+- Types of errors
 
 
