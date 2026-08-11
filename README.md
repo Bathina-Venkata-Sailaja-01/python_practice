@@ -10,5 +10,7 @@ This repository contains my daily Python practice programs.
 - Print Statement(F-String)
 - Packages
 - Types of errors
+- Loops
+- Conditional
 
 
